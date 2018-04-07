@@ -1,0 +1,6 @@
+db.HumansPageSeed.ensureIndex({"url":1},{unique:true})
+db.HumansPageSeed.getIndexes()
+db.Human_PageSeed.ensureIndex({"url":1},{unique:true})
+db.Human_PageSeed.getIndexes()
+db.HumanCompany.ensureIndex({"hid_cid":1},{unique:true})
+db.HumanCompany.getIndexes()
