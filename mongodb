@@ -4,3 +4,4 @@ db.Human_PageSeed.ensureIndex({"url":1},{unique:true})
 db.Human_PageSeed.getIndexes()
 db.HumanCompany.ensureIndex({"hid_cid":1},{unique:true})
 db.HumanCompany.getIndexes()
+https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fwww.tianyancha.com%2Fhuman%2F2189448023&rnd=
